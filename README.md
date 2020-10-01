@@ -73,4 +73,6 @@ Summary statistics on some features were calculated to ensure the importance of 
 -   Destination Port - Mean, Median, Var, Standard Deviation, Cross Variance, Rate of change    
 -   TCP Flags - Mean, Median, Var, Standard Deviation, Cross Variance, Rate of change
 
+![Confusion Matrix][/Confusion Matrix.png]
+![Feature Importance][/Feature_Importance.png]
 

@@ -20,11 +20,6 @@ PCAP_COLUMNS = ['ip.proto', 'ip.src.len.mean', 'ip.src.len.median', 'ip.src.len.
 
 PCAP_COLUMNS_DICT = {key: None for key in PCAP_COLUMNS}
 
-BENIGN1_HOST_IP = '128.192.76.184'
-BENIGN2_HOST_IP = '192.168.4.2'
-BENIGN3_HOST_IP = '192.168.3.2'
-P2PBOX1_HOST_IP = '192.168.1.2' 
-
 # udp_path : path of .csv file of udp packets
 # tcp_path : path of .csv file of tcp packets
 # status : 'benign' / 'malware' 
